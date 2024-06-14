@@ -1,0 +1,190 @@
+.a1{
+    padding-top:15px;
+    
+}
+.cafe
+{
+   padding-left:10%;    
+}   
+ li:hover{
+    color:yellow;
+}
+i:hover{
+    color:yellow
+}
+.img{
+    background: url(./cafe.jpg);
+    object-fit: cover;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    height:650px;
+}
+.align
+{
+    padding-top:130px;
+    text-align:left;
+    margin-left:60px;
+}
+.inputbox{
+    background: transparent;
+    border: 2px solid white;
+    height:30px;
+    margin-bottom: 5px;
+}
+button{
+    margin-top:15px;
+}
+.c1{
+    height:200px;
+    width:300px;
+    /* margin-top:75%; */
+}
+.emoji{
+    margin-top:40%;
+    margin-left:130px;
+}
+
+/*.s1{
+    margin-top:10px;
+
+}
+*/
+.m1{
+    margin-left:5%;
+    padding:50px;
+}
+.m2{
+    margin-top:10px;
+    padding:50px;
+}
+.m3{
+    padding:50px;
+    margin-top:10px;
+}
+/* .cafe-img{
+    display: flex;
+} */
+.cafe1 .container
+{
+    border-left:3px solid brown;
+    box-shadow:0 6px 20px 0 rgba(0, 0,0.30) ;
+    padding:15px;
+    border-radius: 5px;
+}
+.cafe2 .container{
+    border-left:3px solid brown;
+    padding:15px;
+    border-radius:5px;
+    box-shadow:0 6px 20px 0 rgba(0, 0,0.30) ;
+
+}
+.cafe3 .container{
+    border-left:3px solid brown;
+    border-radius:5px ;
+    padding:15px;
+    box-shadow:0 6px 20px 0 rgba(0, 0,0.30) ;
+
+}
+.cafe4 .container{
+    border-left:3px solid brown;
+    padding:15px;
+    border-radius:10px;
+    box-shadow:0 6px 20px 0 rgba(0, 0,0.30) ;
+
+}
+.timetodiscover
+{
+background:url(./download.jpg);
+background-repeat: no-repeat;
+object-fit: cover;
+
+background-size: cover;
+height:650px;
+
+}
+.light
+{
+    padding:80px;
+}
+.video{
+    width:50px;
+    /*padding:13px;*/
+    height:50px;
+    margin:50px;
+    border-radius:50%;
+    background-color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    box-shadow:rgb(85, 91, 255) 0px 0px 0px 3px, 
+    rgb(31, 193, 27) 0px 0px 0px 6px, 
+    rgb(255, 217, 19) 0px 0px 0px 9px, 
+    rgb(255, 156, 85) 0px 0px 0px 12px, 
+    rgb(255, 85, 85) 0px 0px 0px 15px;
+}
+.f1
+{
+    height:280px;
+    width:220px;
+    border:5px solid white;
+
+}
+.images .container
+{ 
+    display:flex;
+}
+.concls{
+    margin-top:100px;
+
+}
+.card{
+    border:none;
+    padding:50px;
+}
+
+.bg{
+    background:url(./bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:650px;
+}
+
+.b{
+    margin-top:82px;
+}
+
+.finalbtn{
+    height:40px;
+    border-radius:0px 20px 20px 0px;
+    border:1px solid transparent;
+    border-left-color:yellow;
+}
+
+.finalinput{
+    height:40px;
+    width:320px;
+    border-radius:20px 0px 0px 20px;
+    border:1px solid transparent;
+    border-right:none;
+    margin-top:15px;
+
+
+
+
+}
+.onlineImg{
+    width:100px;
+    height:100px;
+}
+
+@media(max-width:567px)
+{
+    /*Extra small device(mobile)*/
+    .cafe{
+    
+    }
+
+}
+
+    
